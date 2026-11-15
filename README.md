@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/asma2-h/asma2-h/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/asma2-h" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/asma2-h/asma2-h/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/asma2-h" alt="Workspace"  width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="90" alt="Hello Coders"/> <br>
+<h2>Welcome to Asmaa's GitHub Profile! 🚀</h2>
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
